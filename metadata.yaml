@@ -1,0 +1,36 @@
+_repo: Los-GringosOr-An-Inside-View-of-Mexico-and-California-with-Wanderings-in-Peru-Chili-and-Polyn__32178
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wise, H. A. (Henry Augustus)
+    aliases:
+    - Wise, Henry Augustus
+    - Wise, Henry A. (Henry Augustus)
+    - Gringo, Harry
+    birthdate: 1819
+    deathdate: 1869
+    gutenberg_agent_id: '33658'
+    url: http://www.gutenberg.org/2009/agents/33658
+description: ''
+gutenberg_issued: '2010-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32178'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Polynesia'
+- !lcsh 'Voyages to the Pacific coast'
+- !lcsh 'California -- Description and travel'
+- !lcsh 'Mexico -- Description and travel'
+- !lcc 'F1201'
+title: 'Los Gringos
+
+  Or, An Inside View of Mexico and California, with Wanderings in Peru, Chili, and
+  Polynesia'
+url: http://www.gutenberg.org/ebooks/32178
